@@ -1,0 +1,2 @@
+# Ignore VulnAD state/rollback files generated during lab runs
+DomainBreach-State-*.json
